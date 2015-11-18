@@ -1,0 +1,12 @@
+body {
+	background: src(images/heroimagegug.jpg);
+	background-size: cover;
+}
+
+h1 {
+	color: #7FB0FF
+}
+
+p#slogan{
+	color: orange;
+}
