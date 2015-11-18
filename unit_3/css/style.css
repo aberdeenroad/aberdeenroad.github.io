@@ -1,5 +1,6 @@
 body {
-	background-image: "images/heroimagegug.jpg";
+	background-image: url(images/heroimagegug.jpg);
+	background-position: center;
 	background-size: cover;
 }
 
