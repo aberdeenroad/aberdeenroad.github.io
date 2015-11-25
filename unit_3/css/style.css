@@ -1,17 +1,24 @@
+@font-face {
+	font-family: "ChampagneAndLimousines";
+	src: url("fonts/ChampagneAndLimousines.ttf");
+}
+
 body {
-	background: url("images/heroimagegug.jpg");
-	background-position: center;
+	background-image: url("../images/heroimagegug.jpg");
 	background-size: cover;
+	background-position: center;
 	text-align: center;
 	font-size: 44px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
 }
 
 h1 {
 	color: #7FB0FF;
-	font-family: "Champaigne & Limousines";
+	font-weight: 700;
 }
 
-#slogan{
+#slogan {
 	color: orange;
 	font-size: 14px;
 }
